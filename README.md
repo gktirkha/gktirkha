@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | Flutter Enthusiast | Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-github-id?v=4" width="200" alt="Gautam Tirkha"/>
+  <img src="https://gtirkha.com/assets/img/hero.jpg" width="200" alt="Gautam Tirkha"/>
 </p>
 
 ---
