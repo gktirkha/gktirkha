@@ -70,7 +70,3 @@ I am a versatile developer who adapts to various roles based on project requirem
 - 🐦 [Twitter](https://twitter.com/gktirkha)
 - 📸 [Instagram](https://www.instagram.com/gktirkha)
 - 💬 [Telegram](https://t.me/gktirkha)
-
----
-
-⭐️ From [gktirkha](https://github.com/gktirkha)
