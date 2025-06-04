@@ -46,6 +46,12 @@ I am a versatile developer who adapts to various roles based on project requirem
 
 ---
 
+### 📈 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/gktirkha)
+
+---
+
 ### 🏆 Achievements
 
 - Participated in **e-Yantra Hackathon 2021**; team ranked among top 81 out of 207 submissions.
