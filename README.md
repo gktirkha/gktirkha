@@ -40,12 +40,6 @@ I am a versatile developer who adapts to various roles based on project requirem
 
 ---
 
-### 📈 GitHub Stats
-
-![Gautam's GitHub stats](https://github-readme-stats.vercel.app/api?username=gktirkha&show_icons=true&theme=radical)
-
----
-
 ### 📈 LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/gktirkha)
