@@ -15,7 +15,7 @@ I am a versatile developer who adapts to various roles based on project requirem
 - 🌱 Previously gained 8 months of experience at **Antino Labs Private Limited** and **Cuvix Technologies Private Limited**.
 - 💬 Ask me about **Flutter**, **Node.js**, **Django**, **MongoDB**, and **SQL**.
 - 📫 Reach me at: [gautam@gtirkha.com](mailto:gautam@gtirkha.com)
-- 🌐 Visit my portfolio: [gtirkha.in](https://gtirkha.in/)
+- 🌐 Visit my portfolio: [gtirkha.com](https://gtirkha.com/)
 
 ---
 
